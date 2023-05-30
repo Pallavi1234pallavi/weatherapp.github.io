@@ -16,9 +16,18 @@
     width:100vw;
     height:100vh;
     color: var(--colorLight2);
-    background-image: linear-gradient(160deg, #1b2d42 0%, #3f72af 100%);;
+    background-image: url("./Cloudy.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
+svg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
 h1 {
     text-align: center;
     text-transform:uppercase;
@@ -170,8 +179,8 @@ h1 {
 }   
 
 .parameter img{
-    width:38px;
-    height:21px;
+    width:2.5em;
+    height:3em;
 }
 
 .parameter p:first-of-type{
