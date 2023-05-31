@@ -177,7 +177,17 @@ h1 {
     /* justify-content: space-between; */
     align-items: center; 
 }   
-
+@media (max-width: 480px) {
+    .parameter-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    }
+    .parameter{
+        width: 50%;
+        min-width: 200px;
+    }
+}
 .parameter img{
     width:2.5em;
     height:3em;
