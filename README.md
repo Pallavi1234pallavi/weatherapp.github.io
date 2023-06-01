@@ -6,8 +6,8 @@
  
  ## The Application 📜
  
- <img src = 'Screenshots/pic1.jpg' aligh = 'center' />
- <img src = 'Screenshots/pic2.jpg' align = 'center'/>
+ <img src = 'Screenshots/pic1.png' aligh = 'center' />
+ <img src = 'Screenshots/pic2.png' align = 'center'/>
  
  
  ## Featues🪶
