@@ -3,6 +3,7 @@
  # Weather App
  
  This is a simple weather app that uses the OpenWeatherMap API to fetch and display current weather conditions for the user’s location. Additionally, you can also search for any locations to get the weather info.
+ Link to Weather App :-https://pallavi1234pallavi.github.io/weatherapp.github.io/
  
  ## The Application 📜
  
